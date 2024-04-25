@@ -1,0 +1,32 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    color:white;
+}
+.white-text a {
+    color: white; /* Set the text color to white */
+    margin-left: 10px;
+
+  }
+  .custom-button {
+    border: 2px solid #007bff; /* Set border style */
+    border-radius: 5px; /* Optional: Set border radius */
+    background-color: #007bff; /* Set background color */
+    color: white; /* Set text color */
+    transition: all 0.3s ease; /* Optional: Add transition effect */
+  }
+  .counter {
+    color: white; /* Set the text color to white */
+    margin-bottom: 15px;
+    margin-left:5px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .nav-link-style {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin-right: 40px; /* Add right margin to create space between links */
+  }

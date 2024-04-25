@@ -1,0 +1,16 @@
+.product-card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-card:hover .card-img-top {
+    transform: scale(1.05);
+    transition: 0.3s;
+  }
+  
+  .product-card:hover .card-title {
+    color: #007bff; /* Change to your desired hover color */
+  }
+  .btns{
+    display: flex;
+    justify-content: space-around;
+  }
